@@ -1,7 +1,0 @@
-feat: Cloudy Canvas Theme with matching light and dark variants
-
-- themes: Cloudy Canvas Theme Light (#F4EEFF canvas) + Dark (#180F2A canvas)
-- store-assets: 128px layered-cards icon and real VS Code screenshots (light/dark)
-- scripts: logo generator (Pillow) and real-window screenshot capture, plus a demo project
-- README: bilingual docs, real screenshots, palette table, install steps
-- LICENSE: non-commercial, bilingual
