@@ -1,0 +1,5 @@
+.codebuddy/
+.tmp/
+.vscode/
+node_modules/
+*.vsix

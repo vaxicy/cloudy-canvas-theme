@@ -1,0 +1,52 @@
+{
+  "name": "cloudy-canvas-theme",
+  "displayName": "Cloudy Canvas Theme",
+  "description": "A calm lavender VS Code theme inspired by soft clouds on a blank canvas. Light & dark variants, gentle contrast.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "store-assets/icon.png",
+  "galleryBanner": {
+    "color": "#DCD6F7",
+    "theme": "light"
+  },
+  "keywords": [
+    "cloudy",
+    "canvas",
+    "lavender",
+    "periwinkle",
+    "pastel",
+    "soft",
+    "minimal",
+    "light theme",
+    "dark theme"
+  ],
+  "license": "LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/cloudy-canvas-theme"
+  },
+  "homepage": "https://github.com/vaxicy/cloudy-canvas-theme#readme",
+  "bugs": {
+    "url": "https://github.com/vaxicy/cloudy-canvas-theme/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cloudy Canvas Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/cloudy-canvas-theme-light-color-theme.json"
+      },
+      {
+        "label": "Cloudy Canvas Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cloudy-canvas-theme-dark-color-theme.json"
+      }
+    ]
+  }
+}

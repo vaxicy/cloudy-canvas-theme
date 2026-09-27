@@ -1,0 +1,7 @@
+.codebuddy/
+scripts/
+.tmp/
+.vscode/
+node_modules/
+*.vsix
+store-assets/logo-candidates/
